@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [GitHub Profiles GitHub Solution](https://github.com/MaryAngelique/github-profiles)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
