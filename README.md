@@ -33,7 +33,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub Profiles GitHub Solution](https://github.com/MaryAngelique/github-profiles)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [GitHub Profiles Website](https://github-profiles-beta.vercel.app/)
 
 ## My process
 
