@@ -19,6 +19,9 @@ Users should be able to:
 
 #### - See a search bar and input a GitHub Username
 
+#### - The GitHub information of the user will pop up
+
+
 
 
 ### Features
