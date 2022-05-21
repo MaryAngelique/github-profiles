@@ -21,7 +21,7 @@ Users should be able to:
 
 #### - The GitHub information of the user will pop up
 
-
+#### - The infromation contains: name, bio, following, followers, repository count, and the 5 latest project the user worked on
 
 
 ### Features
