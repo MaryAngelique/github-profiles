@@ -17,11 +17,9 @@
 
 Users should be able to:
 
-#### - 
+#### - See a search bar and input a GitHub Username
 
-#### - 
 
-#### - 
 
 ### Features
 [![PROJECT DEMO](https://dotcom.nlcdn.com/wp-content/uploads/2020/03/Product_Demo_Featured-1140x768@2x-80-min.jpg)](loom)
